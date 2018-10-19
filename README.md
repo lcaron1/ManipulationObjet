@@ -12,8 +12,8 @@ Les outils mes en oeuvre :
 
 le développement  tourne autour de 3 grandes parties
 
-1.création d'un personnage
-2.développement du jeu en lui même permettant l'exploration d'un labyrinthe
-3.la sauvegrade des personnages et du contexte du jeu
+1. création d'un personnage
+2. développement du jeu en lui même permettant l'exploration d'un labyrinthe
+3. la sauvegrade des personnages et du contexte du jeu
 
 
