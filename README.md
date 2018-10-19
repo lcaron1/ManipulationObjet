@@ -1,5 +1,5 @@
 # ManipulationObjet
-[toc]
+toc[]
 Présentation du projet: le but est de réaliser un jeu de rôle permettant un jeu massivement multi joueur permettant,aux
 étudiants du bts sio de se divertir pendant les heures de cantine mais surtout d'améliorer leurs compétences en 
 déveleppement.
